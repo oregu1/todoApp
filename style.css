@@ -28,6 +28,7 @@ body {
     height: 300px;
     border: 1px solid rgba(0,0,0,0.11);
     padding: 5px;
+    overflow-y: scroll;
 }
 .todo-item {
     display: flex;
